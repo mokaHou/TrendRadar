@@ -111,3 +111,5 @@ platforms:
     name: "知乎"
   - id: "v2ex"
     name: "v2ex最新分享"
+  - id: "juejin"
+    name: "稀土掘金"
